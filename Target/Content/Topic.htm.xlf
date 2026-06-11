@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="Topic.htm"
@@ -48,31 +48,31 @@
         phase-name="pretrans"><source>Topic Title</source><seg-source><mrk
             mtype="seg"
             mid="1">Topic Title</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Título del tema</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
         phase-name="pretrans"><source>Delete this text and replace it with your own content.</source><seg-source><mrk
             mtype="seg"
             mid="1">Delete this text and replace it with your own content.</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Elimine este texto y reemplácelo con su propio contenido.</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-p"
         phase-name="pretrans"><source>Issues</source><seg-source><mrk
             mtype="seg"
             mid="1">Issues</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Cuestiones</mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-xml-li"
         phase-name="pretrans"><source>Topic Popup link to .NET goes away after you click the link the first time. Subsequent clicks are ok. (#43025 <bpt
@@ -92,37 +92,40 @@
               id="1"
               ctype="italic" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;i&gt;</bpt>Fixed<ept
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/i&gt;</ept>)</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">El enlace emergente del tema a .NET desaparece después de que hace clic en el vínculo la primera vez.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Los clics posteriores están bien.</mrk><mrk
             mtype="protected"
             mid="4"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="5"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">(# 43025 <bpt
+              id="1"
+              ctype="italic" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;i&gt;</bpt>reparado<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/i&gt;</ept>)</mrk></target></trans-unit><trans-unit
         id="5"
         restype="x-xml-li"
         phase-name="pretrans"><source>Text Popups with too much text do not display scroll bars, instead the text is just cutoff bug (#43281 same as ever)</source><seg-source><mrk
             mtype="seg"
             mid="1">Text Popups with too much text do not display scroll bars, instead the text is just cutoff bug (#43281 same as ever)</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Las ventanas emergentes de texto con demasiado texto no muestran barras de desplazamiento, en su lugar, el texto es solo error de corte (# 43281 igual que nunca)</mrk></target></trans-unit><trans-unit
         id="6"
         restype="x-xml-li"
         phase-name="pretrans"><source>Help Controls set to display the linked topic in a Popup Window or New Window do not work in DotNet/HTML output. (#43292)</source><seg-source><mrk
@@ -132,18 +135,18 @@
             mid="2"> </mrk><mrk
             mtype="seg"
             mid="3">(#43292)</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Los controles de ayuda configurados para mostrar el tema vinculado en una Ventana emergente o Nueva ventana no funcionan en la salida DotNet / HTML.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit></body>
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">(#43292)</mrk></target></trans-unit></body>
   </file>
 </xliff>

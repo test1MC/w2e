@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="ALinkControl.htm"
@@ -125,60 +125,60 @@
         phase-name="pretrans"><source>ALinkControl</source><seg-source><mrk
             mtype="seg"
             mid="1">ALinkControl</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">Un control de enlace</mrk></target></trans-unit><trans-unit
         id="9"
         restype="x-xml-p"
         phase-name="pretrans"><source>A-Link, Parent Frame:</source><seg-source><mrk
             mtype="seg"
             mid="1">A-Link, Parent Frame:</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">A-Link, cuadro principal:</mrk></target></trans-unit><trans-unit
         id="10"
         restype="x-xml-p"
         phase-name="pretrans"><source>A-Link, New Window:</source><seg-source><mrk
             mtype="seg"
             mid="1">A-Link, New Window:</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">A-Link, Nueva Ventana:</mrk></target></trans-unit><trans-unit
         id="11"
         restype="x-xml-p"
         phase-name="pretrans"><source>A-Link, Same Frame:</source><seg-source><mrk
             mtype="seg"
             mid="1">A-Link, Same Frame:</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">A-Link, Mismo Marco:</mrk></target></trans-unit><trans-unit
         id="12"
         restype="x-xml-p"
         phase-name="pretrans"><source>A-Link, Top Frame:</source><seg-source><mrk
             mtype="seg"
             mid="1">A-Link, Top Frame:</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">A-Link, Marco superior:</mrk></target></trans-unit><trans-unit
         id="13"
         restype="x-xml-p"
         phase-name="pretrans"><source>A-Link, Popup Window:</source><seg-source><mrk
             mtype="seg"
             mid="1">A-Link, Popup Window:</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit></body>
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="101">A-Link, ventana emergente:</mrk></target></trans-unit></body>
   </file>
 </xliff>
