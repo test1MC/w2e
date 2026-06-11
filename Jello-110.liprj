@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LingoProject flattenSnippets="false" SelectedTarget="" TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="12">
     <ProjectFile Source="Target/!JavaScriptFileTesting.flprj" Target="Target/!JavaScriptFileTesting.flprj" />
+    <TMConnection Connection="SPANISH1.db" ReadOnly="false" Type="StandAlone" />
 </LingoProject>
