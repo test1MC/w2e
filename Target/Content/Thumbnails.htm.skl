@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="675" MadCap:lastWidth="959" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1>砻קยด1ตว融</h1>
+        <p>砻קยด2ตว融</p>
+        <p>
+            <img src="Resources/Images/Cartman2.bmp" style="mc-thumbnail: popup;" />
+        </p>
+        <p> </p>
+        <p>砻קยด3ตว融</p>
+        <p>
+            <img src="Resources/Images/Cartman2.bmp" style="mc-thumbnail: link;" />
+        </p>
+        <p> </p>
+        <p>砻קยด4ตว融</p>
+        <p>
+            <img src="Resources/Images/Cartman2.bmp" style="mc-thumbnail: hover;" />
+        </p>
+        <p> </p>
+        <p>砻קยด5ตว融</p>
+        <p>
+            <img src="Resources/Images/Cartman2.bmp" style="mc-thumbnail: none;" />
+        </p>
+    </body>
+</html>

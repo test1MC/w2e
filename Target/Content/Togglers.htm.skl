@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="246" MadCap:lastWidth="631" MadCap:ignoredWords="Toggler" xml:space="preserve">
+    <head>
+        <link href="Resources/TableStyles/Basic.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h1>砻קยด1ตว融</h1>
+        <p><MadCap:toggler targets="砻קยด2ตว融1">砻קยด2ตว融
+</MadCap:toggler></p>
+        <p MadCap:targetName="Toggler1">砻קยด3ตว融</p>
+        <p> </p>
+        <table style="width: 100%;mc-table-style: url('Resources/TableStyles/Basic.css');" class="TableStyle-Basic" cellspacing="0">
+            <col class="Column-Column1" />
+            <tbody>
+                <tr class="Body-Body1">
+                    <td class="BodyD-Column1-Body1"><MadCap:toggler targets="砻קยด4ตว融2">砻קยด4ตว融
+</MadCap:toggler></td>
+                </tr>
+                <tr class="Body-Body1">
+                    <td class="BodyA-Column1-Body1" MadCap:targetName="Toggler2">砻קยด5ตว融</td>
+                </tr>
+            </tbody>
+        </table>
+        <p> </p>
+        <ul>
+            <li>
+                <MadCap:toggler targets="Toggler3">砻קยด6ตว融</MadCap:toggler>
+            </li>
+            <li MadCap:targetName="Toggler3">砻קยด7ตว融</li>
+        </ul>
+    </body>
+</html>
